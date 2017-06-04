@@ -7,10 +7,10 @@
     "1.8.9-recommended": "0.7.1",
     "1.9.4-latest": "0.7.2",
     "1.9.4-recommended": "0.7.2",
-    "1.10-latest": "0.7.2",
-    "1.10-recommended": "0.7.2",
-    "1.10.2-latest": "0.7.2",
-    "1.10.2-recommended": "0.7.2",
+    "1.10-latest": "0.7.2-hotfix1",
+    "1.10-recommended": "0.7.2-hotfix1",
+    "1.10.2-latest": "0.7.2-hotfix1",
+    "1.10.2-recommended": "0.7.2-hotfix1",
     "1.11-latest": "0.7.2",
     "1.11-recommended": "0.7.2",
     "1.11.2-latest": "0.7.2",
@@ -32,12 +32,14 @@
   "1.10": {
     "0.7.1": "First release for 1.10",
     "0.7.1-hotfix1": "Fixed typo, which lead to broken worlds",
-    "0.7.2": "Left hand fixes and lots of other fixes"
+    "0.7.2": "Left hand fixes and lots of other fixes",
+    "0.7.2-hotfix1": "1.10 and 1.10.2 united, fixed crashes with much of items"
   },
   "1.10.2": {
     "0.7.1": "First release for 1.10.2",
     "0.7.1-hotfix1": "Fixed typo, which lead to broken worlds",
-    "0.7.2": "Left hand fixes and lots of other fixes"
+    "0.7.2": "Left hand fixes and lots of other fixes",
+    "0.7.2-hotfix1": "1.10 and 1.10.2 united, fixed crashes with much of items"
   },
   "1.11": {
     "0.7.1": "First release for 1.11",
