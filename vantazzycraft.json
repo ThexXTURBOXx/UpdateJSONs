@@ -1,0 +1,15 @@
+{
+  "homepage": "https://github.com/ThexXTURBOXx",
+  "promos": {
+    "1.11-latest": "0.1",
+    "1.11-recommended": "0.1",
+    "1.11.2-latest": "0.1",
+    "1.11.2-recommended": "0.1"
+  },
+  "1.11": {
+    "0.1": "First release for 1.11"
+  },
+  "1.11.2": {
+    "0.1": "First release for 1.11.2"
+  }
+}
