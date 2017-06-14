@@ -6,7 +6,9 @@
     "1.11-latest": "1.2.2",
     "1.11-recommended": "1.2.2",
     "1.11.2-latest": "1.2.2",
-    "1.11.2-recommended": "1.2.2"
+    "1.11.2-recommended": "1.2.2",
+    "1.12-latest": "1.2.3",
+    "1.12-recommended": "1.2.3"
   },
   "1.10.2": {
     "1.1": "Added Filtered Quarry",
@@ -25,5 +27,9 @@
     "1.2": "Added Hardmode Recipes",
     "1.2.1": "Bob Ross would have loved coloured Emerald Blocks in recipes...",
     "1.2.2": "Mod compatibility enhanced"
+  },
+  "1.12": {
+    "1.2.2": "Initial update for 1.12",
+    "1.2.3": "Enabled recipes again"
   }
 }
