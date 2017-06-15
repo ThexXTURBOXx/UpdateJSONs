@@ -7,8 +7,8 @@
     "1.11-recommended": "1.2.2",
     "1.11.2-latest": "1.2.2",
     "1.11.2-recommended": "1.2.2",
-    "1.12-latest": "1.2.3",
-    "1.12-recommended": "1.2.3"
+    "1.12-latest": "1.2.4",
+    "1.12-recommended": "1.2.4"
   },
   "1.10.2": {
     "1.1": "Added Filtered Quarry",
@@ -30,6 +30,7 @@
   },
   "1.12": {
     "1.2.2": "Initial update for 1.12",
-    "1.2.3": "Enabled recipes again"
+    "1.2.3": "Enabled recipes again",
+    "1.2.4": "Fixed all recipes (incl. Hardmode)"
   }
 }
