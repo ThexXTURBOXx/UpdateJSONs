@@ -1,36 +1,45 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/megaquarry",
   "promos": {
-    "1.10.2-latest": "1.2.2",
-    "1.10.2-recommended": "1.2.2",
-    "1.11-latest": "1.2.2",
-    "1.11-recommended": "1.2.2",
-    "1.11.2-latest": "1.2.2",
-    "1.11.2-recommended": "1.2.2",
-    "1.12-latest": "1.2.4",
-    "1.12-recommended": "1.2.4"
+    "1.10.2-latest": "1.3",
+    "1.10.2-recommended": "1.3",
+    "1.11-latest": "1.3",
+    "1.11-recommended": "1.3",
+    "1.11.2-latest": "1.3",
+    "1.11.2-recommended": "1.3",
+    "1.12-latest": "1.3",
+    "1.12-recommended": "1.3",
+    "1.13-latest": "1.3",
+    "1.13-recommended": "1.3"
   },
   "1.10.2": {
     "1.1": "Added Filtered Quarry",
     "1.2": "Added Hardmode Recipes",
     "1.2.1": "Bob Ross would have loved coloured Emerald Blocks in recipes...",
-    "1.2.2": "Mod compatibility enhanced"
+    "1.2.2": "Mod compatibility enhanced",
+    "1.3": "Merged most changes from 1.12"
   },
   "1.11": {
     "1.1": "Added Filtered Quarry",
     "1.2": "Added Hardmode Recipes",
     "1.2.1": "Bob Ross would have loved coloured Emerald Blocks in recipes...",
-    "1.2.2": "Mod compatibility enhanced"
+    "1.2.2": "Mod compatibility enhanced",
+    "1.3": "Merged most changes from 1.12"
   },
   "1.11.2": {
     "1.1": "Added Filtered Quarry",
     "1.2": "Added Hardmode Recipes",
     "1.2.1": "Bob Ross would have loved coloured Emerald Blocks in recipes...",
-    "1.2.2": "Mod compatibility enhanced"
+    "1.2.2": "Mod compatibility enhanced",
+    "1.3": "Merged most changes from 1.12"
   },
   "1.12": {
     "1.2.2": "Initial update for 1.12",
     "1.2.3": "Enabled recipes again",
-    "1.2.4": "Fixed all recipes (incl. Hardmode)"
+    "1.2.4": "Fixed all recipes (incl. Hardmode)",
+    "1.3": "Fixed for recommended 1.12-Forge and updated Mod Info"
+  },
+  "1.13": {
+    "1.3": "Fixed for recommended 1.12-Forge and updated Mod Info"
   }
 }
