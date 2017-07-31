@@ -14,7 +14,9 @@
     "1.11-latest": "0.7.4",
     "1.11-recommended": "0.7.4",
     "1.11.2-latest": "0.7.4",
-    "1.11.2-recommended": "0.7.4"
+    "1.11.2-recommended": "0.7.4",
+    "1.12-latest": "0.7.4",
+    "1.12-recommended": "0.7.4"
   },
   "1.8": {
     "0.7-final": "Readded compatibility with Reforged Integration",
@@ -63,5 +65,8 @@
     "0.7.2": "Left hand fixes and lots of other fixes",
     "0.7.3": "Very much fixes",
     "0.7.4": "Some Fixes, Dynamic Nest Of Bees, Firerod interaction with Creepers"
+  },
+  "1.12": {
+    "0.7.4": "Ported to 1.12"
   }
 }
