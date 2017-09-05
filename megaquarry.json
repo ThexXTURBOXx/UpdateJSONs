@@ -7,10 +7,12 @@
     "1.11-recommended": "1.3",
     "1.11.2-latest": "1.3",
     "1.11.2-recommended": "1.3",
-    "1.12-latest": "1.3",
-    "1.12-recommended": "1.3",
-    "1.13-latest": "1.3",
-    "1.13-recommended": "1.3"
+    "1.12-latest": "1.3.1",
+    "1.12-recommended": "1.3.1",
+    "1.12.1-latest": "1.3.1",
+    "1.12.1-recommended": "1.3.1",
+    "1.13-latest": "1.3.1",
+    "1.13-recommended": "1.3.1"
   },
   "1.10.2": {
     "1.1": "Added Filtered Quarry",
@@ -37,9 +39,14 @@
     "1.2.2": "Initial update for 1.12",
     "1.2.3": "Enabled recipes again",
     "1.2.4": "Fixed all recipes (incl. Hardmode)",
-    "1.3": "Fixed for recommended 1.12-Forge and updated Mod Info"
+    "1.3": "Fixed for recommended 1.12-Forge and updated Mod Info",
+    "1.3.1": "Changed recipes to json-format"
+  },
+  "1.12.1": {
+    "1.3.1": "Changed recipes to json-format + 1.12.1-support"
   },
   "1.13": {
-    "1.3": "Fixed for recommended 1.12-Forge and updated Mod Info"
+    "1.3": "Fixed for recommended 1.12-Forge and updated Mod Info",
+    "1.3.1": "Changed recipes to json-format"
   }
 }
