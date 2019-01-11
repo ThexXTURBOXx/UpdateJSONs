@@ -20,7 +20,9 @@
     "1.12.1-latest": "0.7.5",
     "1.12.1-recommended": "0.7.5",
     "1.12.2-latest": "0.7.5",
-    "1.12.2-recommended": "0.7.5"
+    "1.12.2-recommended": "0.7.5",
+    "1.13-latest": "0.7.5",
+    "1.13-recommended": "0.7.5"
   },
   "1.8": {
     "0.7-final": "Readded compatibility with Reforged Integration",
@@ -86,5 +88,8 @@
   "1.12.2": {
     "0.7.4": "Ported to 1.12+",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8"
+  },
+  "1.13": {
+    "0.7.5": "Ported to 1.13"
   }
 }
