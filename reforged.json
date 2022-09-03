@@ -15,12 +15,12 @@
     "1.11-recommended": "0.7.5",
     "1.11.2-latest": "0.7.5",
     "1.11.2-recommended": "0.7.5",
-    "1.12-latest": "0.7.5",
-    "1.12-recommended": "0.7.5",
-    "1.12.1-latest": "0.7.5",
-    "1.12.1-recommended": "0.7.5",
-    "1.12.2-latest": "0.7.5",
-    "1.12.2-recommended": "0.7.5",
+    "1.12-latest": "0.7.6",
+    "1.12-recommended": "0.7.6",
+    "1.12.1-latest": "0.7.6",
+    "1.12.1-recommended": "0.7.6",
+    "1.12.2-latest": "0.7.6",
+    "1.12.2-recommended": "0.7.6",
     "1.13-latest": "0.7.5",
     "1.13-recommended": "0.7.5",
     "1.16.2-latest": "1.0.0",
@@ -87,15 +87,18 @@
   },
   "1.12": {
     "0.7.4": "Ported to 1.12+",
-    "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8"
+    "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
+    "0.7.6": "Too many changes for this little space!"
   },
   "1.12.1": {
     "0.7.4": "Ported to 1.12+",
-    "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8"
+    "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
+    "0.7.6": "Too many changes for this little space!"
   },
   "1.12.2": {
     "0.7.4": "Ported to 1.12+",
-    "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8"
+    "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
+    "0.7.6": "Too many changes for this little space!"
   },
   "1.13": {
     "0.7.5": "Ported to 1.13"
