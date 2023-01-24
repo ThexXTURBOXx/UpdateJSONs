@@ -5,22 +5,22 @@
     "1.8-recommended": "0.7.4",
     "1.8.9-latest": "0.7.4",
     "1.8.9-recommended": "0.7.4",
-    "1.9.4-latest": "0.7.8",
-    "1.9.4-recommended": "0.7.8",
-    "1.10-latest": "0.7.8",
-    "1.10-recommended": "0.7.8",
-    "1.10.2-latest": "0.7.8",
-    "1.10.2-recommended": "0.7.8",
-    "1.11-latest": "0.7.8",
-    "1.11-recommended": "0.7.8",
-    "1.11.2-latest": "0.7.8",
-    "1.11.2-recommended": "0.7.8",
-    "1.12-latest": "0.7.8",
-    "1.12-recommended": "0.7.8",
-    "1.12.1-latest": "0.7.8",
-    "1.12.1-recommended": "0.7.8",
-    "1.12.2-latest": "0.7.8",
-    "1.12.2-recommended": "0.7.8",
+    "1.9.4-latest": "0.7.9",
+    "1.9.4-recommended": "0.7.9",
+    "1.10-latest": "0.7.9",
+    "1.10-recommended": "0.7.9",
+    "1.10.2-latest": "0.7.9",
+    "1.10.2-recommended": "0.7.9",
+    "1.11-latest": "0.7.9",
+    "1.11-recommended": "0.7.9",
+    "1.11.2-latest": "0.7.9",
+    "1.11.2-recommended": "0.7.9",
+    "1.12-latest": "0.7.9",
+    "1.12-recommended": "0.7.9",
+    "1.12.1-latest": "0.7.9",
+    "1.12.1-recommended": "0.7.9",
+    "1.12.2-latest": "0.7.9",
+    "1.12.2-recommended": "0.7.9",
     "1.13-latest": "0.7.5",
     "1.13-recommended": "0.7.5",
     "1.16.2-latest": "1.0.0",
@@ -50,7 +50,8 @@
     "0.7.3": "Very much fixes",
     "0.7.4": "Some Fixes, Dynamic Nest Of Bees, Firerod interaction with Creepers",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.10": {
     "0.7.1": "First release for 1.10",
@@ -60,7 +61,8 @@
     "0.7.3": "Very much fixes",
     "0.7.4": "Some Fixes, Dynamic Nest Of Bees, Firerod interaction with Creepers",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.10.2": {
     "0.7.1": "First release for 1.10.2",
@@ -70,7 +72,8 @@
     "0.7.3": "Very much fixes",
     "0.7.4": "Some Fixes, Dynamic Nest Of Bees, Firerod interaction with Creepers",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.11": {
     "0.7.1": "First release for 1.11",
@@ -79,7 +82,8 @@
     "0.7.3": "Very much fixes",
     "0.7.4": "Some Fixes, Dynamic Nest Of Bees, Firerod interaction with Creepers",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.11.2": {
     "0.7.1": "First release for 1.11.2",
@@ -88,28 +92,32 @@
     "0.7.3": "Very much fixes",
     "0.7.4": "Some Fixes, Dynamic Nest Of Bees, Firerod interaction with Creepers",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.12": {
     "0.7.4": "Ported to 1.12+",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
     "0.7.6": "Too many changes for this little space!",
     "0.7.7": "Too many changes for this little space!",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.12.1": {
     "0.7.4": "Ported to 1.12+",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
     "0.7.6": "Too many changes for this little space!",
     "0.7.7": "Too many changes for this little space!",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.12.2": {
     "0.7.4": "Ported to 1.12+",
     "0.7.5": "Last (VERY LOT) Bugfixes before working on 0.8",
     "0.7.6": "Too many changes for this little space!",
     "0.7.7": "Too many changes for this little space!",
-    "0.7.8": "Too many changes for this little space!"
+    "0.7.8": "Too many changes for this little space!",
+    "0.7.9": "Add Training Dummy and fix gun-related issues"
   },
   "1.13": {
     "0.7.5": "Ported to 1.13"
