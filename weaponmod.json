@@ -33,8 +33,8 @@
       "1.20.1-recommended":"1.21.3",
       "1.20.6-latest":"1.21.3",
       "1.20.6-recommended":"1.21.3",
-      "1.21-latest":"1.21.3",
-      "1.21-recommended":"1.21.3"
+      "1.21-latest":"1.21.4",
+      "1.21-recommended":"1.21.4"
    },
    "1.7.10":{
       "1.21.3":"Balancing and API improvements",
@@ -142,6 +142,7 @@
       "1.20.0":"Initial 1.20.6 port"
    },
    "1.21":{
+      "1.21.4":"1.21-only release! Update NeoForge compatibility to >=21.0.42-beta",
       "1.21.3":"Balancing and API improvements",
       "1.21.2":"Stability and Bugfixes",
       "1.21.1":"Bugfixes",
