@@ -1,42 +1,43 @@
 {
    "homepage":"https://www.curseforge.com/minecraft/mc-mods/balkons-weaponmod-legacy",
    "promos":{
-      "1.7.10-latest":"1.22.1",
-      "1.7.10-recommended":"1.22.1",
-      "1.8.9-latest":"1.22.1",
-      "1.8.9-recommended":"1.22.1",
-      "1.9.4-latest":"1.22.1",
-      "1.9.4-recommended":"1.22.1",
-      "1.10.2-latest":"1.22.1",
-      "1.10.2-recommended":"1.22.1",
-      "1.11.2-latest":"1.22.1",
-      "1.11.2-recommended":"1.22.1",
-      "1.12.2-latest":"1.22.1",
-      "1.12.2-recommended":"1.22.1",
-      "1.13.2-latest":"1.22.1",
-      "1.13.2-recommended":"1.22.1",
-      "1.14.4-latest":"1.22.1",
-      "1.14.4-recommended":"1.22.1",
-      "1.15.2-latest":"1.22.1",
-      "1.15.2-recommended":"1.22.1",
-      "1.16.5-latest":"1.22.1",
-      "1.16.5-recommended":"1.22.1",
-      "1.17.1-latest":"1.22.1",
-      "1.17.1-recommended":"1.22.1",
-      "1.18.2-latest":"1.22.1",
-      "1.18.2-recommended":"1.22.1",
-      "1.19.2-latest":"1.22.1",
-      "1.19.2-recommended":"1.22.1",
-      "1.19.4-latest":"1.22.1",
-      "1.19.4-recommended":"1.22.1",
-      "1.20.1-latest":"1.22.1",
-      "1.20.1-recommended":"1.22.1",
-      "1.20.6-latest":"1.22.1",
-      "1.20.6-recommended":"1.22.1",
-      "1.21-latest":"1.22.1",
-      "1.21-recommended":"1.22.1"
+      "1.7.10-latest":"1.22.2",
+      "1.7.10-recommended":"1.22.2",
+      "1.8.9-latest":"1.22.2",
+      "1.8.9-recommended":"1.22.2",
+      "1.9.4-latest":"1.22.2",
+      "1.9.4-recommended":"1.22.2",
+      "1.10.2-latest":"1.22.2",
+      "1.10.2-recommended":"1.22.2",
+      "1.11.2-latest":"1.22.2",
+      "1.11.2-recommended":"1.22.2",
+      "1.12.2-latest":"1.22.2",
+      "1.12.2-recommended":"1.22.2",
+      "1.13.2-latest":"1.22.2",
+      "1.13.2-recommended":"1.22.2",
+      "1.14.4-latest":"1.22.2",
+      "1.14.4-recommended":"1.22.2",
+      "1.15.2-latest":"1.22.2",
+      "1.15.2-recommended":"1.22.2",
+      "1.16.5-latest":"1.22.2",
+      "1.16.5-recommended":"1.22.2",
+      "1.17.1-latest":"1.22.2",
+      "1.17.1-recommended":"1.22.2",
+      "1.18.2-latest":"1.22.2",
+      "1.18.2-recommended":"1.22.2",
+      "1.19.2-latest":"1.22.2",
+      "1.19.2-recommended":"1.22.2",
+      "1.19.4-latest":"1.22.2",
+      "1.19.4-recommended":"1.22.2",
+      "1.20.1-latest":"1.22.2",
+      "1.20.1-recommended":"1.22.2",
+      "1.20.6-latest":"1.22.2",
+      "1.20.6-recommended":"1.22.2",
+      "1.21-latest":"1.22.2",
+      "1.21-recommended":"1.22.2"
    },
    "1.7.10":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -45,6 +46,7 @@
       "1.21.0":"Initial 1.7.10 port"
    },
    "1.8.9":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -53,6 +55,7 @@
       "1.21.0":"Initial 1.8.9 port"
    },
    "1.9.4":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -61,6 +64,7 @@
       "1.21.0":"Initial 1.9.4 port"
    },
    "1.10.2":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -69,6 +73,7 @@
       "1.21.0":"Initial 1.10.2 port"
    },
    "1.11.2":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -77,6 +82,7 @@
       "1.21.0":"Initial 1.11.2 port"
    },
    "1.12.2":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -86,6 +92,7 @@
       "1.20.0":"Initial 1.12.2 port"
    },
    "1.13.2":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -95,6 +102,7 @@
       "1.20.0":"Initial 1.13.2 port"
    },
    "1.14.4":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -104,6 +112,7 @@
       "1.20.0":"Initial 1.14.4 port"
    },
    "1.15.2":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -113,6 +122,7 @@
       "1.20.0":"Initial 1.15.2 port"
    },
    "1.16.5":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -122,6 +132,7 @@
       "1.20.0":"Initial 1.16.5 port"
    },
    "1.17.1":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -131,6 +142,7 @@
       "1.20.0":"Initial 1.17.1 port"
    },
    "1.18.2":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -140,6 +152,7 @@
       "1.20.0":"Initial 1.18.2 port"
    },
    "1.19.2":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -148,6 +161,7 @@
       "1.21.0":"Initial 1.19.2 port"
    },
    "1.19.4":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -157,6 +171,7 @@
       "1.20.0":"Initial 1.19.4 port"
    },
    "1.20.1":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -165,6 +180,7 @@
       "1.21.0":"Initial 1.20.1 port"
    },
    "1.20.6":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.3":"Balancing and API improvements",
@@ -174,6 +190,7 @@
       "1.20.0":"Initial 1.20.6 port"
    },
    "1.21":{
+      "1.22.2":"Small bugfix",
       "1.22.1":"Bugfixes",
       "1.22.0":"Many bugfixes and improvements",
       "1.21.4":"1.21-only release! Update NeoForge compatibility to >=21.0.42-beta",
